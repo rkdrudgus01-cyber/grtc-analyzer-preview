@@ -1,0 +1,30 @@
+{
+  "name": "SheetJS Community Edition",
+  "version": "0.20.3",
+  "downloadedOn": "2026-10-13",
+  "artifact": {
+    "file": "xlsx.full.min.js",
+    "url": "https://cdn.sheetjs.com/xlsx-0.20.3/package/dist/xlsx.full.min.js",
+    "bytes": 951904,
+    "sha256": "cc015130aa8521e7f088f88898eba949ccdcbfb38df0bd129b44b7273c3a6f41"
+  },
+  "license": {
+    "id": "Apache-2.0",
+    "file": "LICENSE.sheetjs.txt",
+    "url": "https://cdn.sheetjs.com/xlsx-0.20.3/package/LICENSE",
+    "bytes": 11355,
+    "sha256": "4d2a38ac35cda06a555c84074a819d413339cd3691b822cae50f8f322fe01f64"
+  },
+  "advisories": [
+    {
+      "id": "CVE-2023-30533",
+      "url": "https://cdn.sheetjs.com/advisories/CVE-2023-30533",
+      "fixedFrom": "0.19.3"
+    },
+    {
+      "id": "CVE-2024-22363",
+      "url": "https://cdn.sheetjs.com/advisories/CVE-2024-22363",
+      "fixedFrom": "0.20.2"
+    }
+  ]
+}
